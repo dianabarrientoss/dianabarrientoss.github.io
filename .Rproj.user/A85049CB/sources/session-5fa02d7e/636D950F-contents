@@ -1,6 +1,6 @@
 ---
-title: "Diana Barrientos"
-image: "foto.jpeg"
+title: "Evelia Coss"
+image: "yo_azul.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
