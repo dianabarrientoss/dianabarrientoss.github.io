@@ -8,7 +8,7 @@ links:
     url: "https://x.com/diana_bglz?s=11"
   - label: '`r fontawesome::fa(name = "github", fill = "darkred")` Github'
     url: "https://github.com/dianabarrientoss"
-  - label: 'r fontawesome::fa(name = "envelope", fill = "darkred") Mail'
+  - label: '`r fontawesome::fa(name = "envelope", fill = "darkred") Mail'
     url: "diana.barrientos.glz@gmail.com"
   - label: '`r fontawesome::fa(name = "bluesky", fill = "darkred")` bluesky'
     url: "https://bsky.app/profile/dianabarrientos.bsky.social"
