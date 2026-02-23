@@ -15,7 +15,7 @@ links:
   url: "mailto:diana.barrientos.glz@gmail.com"
 
 - label: '`r fontawesome::fa(name = "bluesky", fill = "darkred")` Bluesky'
-  url: "https://bsky.app/profile/dianabarrientos.bsky.social""
+  url: "https://bsky.app/profile/dianabarrientos.bsky.social"
 output:
   postcards::jolla
 ---
