@@ -2,16 +2,20 @@
 title: "Diana Barrientos"
 image: "foto.jpeg"
 links:
-  - label: '`r fontawesome::fa(name = "linkedin", fill = "darkred")` LinkedIn'
-    url: "https://www.linkedin.com/in/diana-barrientos-gonz%C3%A1lez-03a70536a"
-  - label: '`r fontawesome::fa(name = "x-twitter", fill = "darkred")` x-twitter'
-    url: "https://x.com/diana_bglz?s=11"
-  - label: '`r fontawesome::fa(name = "github", fill = "darkred")` Github'
-    url: "https://github.com/dianabarrientoss"
-  - label: '`r fontawesome::fa(name = "envelope", fill = "darkred") Mail'
-    url: "diana.barrientos.glz@gmail.com"
-  - label: '`r fontawesome::fa(name = "bluesky", fill = "darkred")` bluesky'
-    url: "https://bsky.app/profile/dianabarrientos.bsky.social"
+- label: '`r fontawesome::fa(name = "linkedin", fill = "darkred")` LinkedIn'
+  url: "https://www.linkedin.com/in/diana-barrientos-gonz%C3%A1lez-03a70536a"
+
+- label: '`r fontawesome::fa(name = "x-twitter", fill = "darkred")` X'
+  url: "https://x.com/diana_bglz?s=11"
+
+- label: '`r fontawesome::fa(name = "github", fill = "darkred")` GitHub'
+  url: "https://github.com/dianabarrientoss"
+
+- label: '`r fontawesome::fa(name = "envelope", fill = "darkred")` Mail'
+  url: "mailto:diana.barrientos.glz@gmail.com"
+
+- label: '`r fontawesome::fa(name = "bluesky", fill = "darkred")` Bluesky'
+  url: "https://bsky.app/profile/dianabarrientos.bsky.social""
 output:
   postcards::jolla
 ---
